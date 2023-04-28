@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Elisaatnam&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Elisaatnam&theme=nord&hide_border=true)<br/>
-![](https://streak-stats.demolab.com/?user=Elisaatnam)](https://git.io/streak-stats)<br/>
+![](https://streak-stats.demolab.com/?user=Elisaatnam)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elisaatnam&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
