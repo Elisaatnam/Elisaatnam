@@ -1,7 +1,7 @@
 # Elisaatnam
 
 # 💫 About Me:
-🔭 I’m currently working on becoming an awesome Fullstack Developer<br>👯 I’m looking to collaborate on all kinds of Frontend Projects<br>🌱 I’m currently learning Backend - Node.js <br>⚡ Fun fact: even though I'm a Web Developer I am a nature lover and like to spend my time with outdoor activities 🐶
+🔭 I’m currently working on becoming an awesome Fullstack Developer<br>👯 I’m looking to collaborate on all kinds of Fullstack Projects<br>🌱 I’m currently learning TypeScript <br>⚡ Fun fact: even though I'm a Web Developer I am a nature lover and like to spend my time with outdoor activities 🐶
 
 
 ## 🌐 Socials:
